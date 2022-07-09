@@ -6,7 +6,7 @@
 
 ![Carlos Rodrigo NS GitHub stats](https://github-readme-stats.vercel.app/api?username=CarlosRodrigoNS&show_icons=true&theme=merko)
 
-Tecnologia que eu uso no dia a dia
+###Tecnologia que eu uso no dia a dia
 
 <div style="display: inline_block"><br>
 
