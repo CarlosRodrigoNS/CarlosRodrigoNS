@@ -1,6 +1,6 @@
 ### Olá! Sou o Carlos Rodrigo NS
 
-## Programador Junior Python e Django
+ Programador Junior Python e Django
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/eucarlao011?igshid=YmMyMTA2M2Y=) [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlos-rodrigo-nunes-silva-403227244/)
 
